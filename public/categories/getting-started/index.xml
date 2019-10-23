@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>getting started on GitCourse</title>
+    <link>http://kfcoding.github.io/categories/getting-started/</link>
+    <description>Recent content in getting started on GitCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kfcoding.github.io/categories/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About GitCourse</title>
+      <link>http://kfcoding.github.io/getting-started/about/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/getting-started/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>http://kfcoding.github.io/getting-started/quick/</link>
+      <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/getting-started/quick/</guid>
+      <description>GitCourse 说明 GitCourse项目结构 每一个GitCourse项目根目录下都含有一个course.json，course.json定义了全部与课程相关的配置信息如标题、作者、场景等。 一个典型的GitCourse目录结构如下所示：
+- 项目根目录 |- course.json |- shell |-- 1.1-check.sh |-- 1.2-check.sh |- scenario |-- 1.1-sample1.md |-- 1.2-sample2.md |- script |-- auth.js |-- complete.js |-- preload.js |- ...其它文件或者目录  course.json里包含了什么？ 首先请看一个简单的course.json实例:
+{ &amp;quot;version&amp;quot;: &amp;quot;1&amp;quot;, &amp;quot;title&amp;quot;: &amp;quot;Flink 教程&amp;quot;, &amp;quot;author&amp;quot;: &amp;quot;GitCourse&amp;quot;, &amp;quot;description&amp;quot;: &amp;quot;Apache Flink is an open source platform for distributed stream and batch data processing. Flink’s core is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams.</description>
+    </item>
+    
+  </channel>
+</rss>

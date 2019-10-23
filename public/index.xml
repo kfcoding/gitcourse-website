@@ -1,0 +1,138 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitCourse – Kfcoding</title>
+    <link>http://kfcoding.github.io/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2019 12:00:00 -0500</lastBuildDate>
+    <image>
+      <url>http://kfcoding.github.io/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>http://kfcoding.github.io/</link>
+    </image>
+    
+	<atom:link href="http://kfcoding.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Showcase: Pro Git</title>
+      <link>http://kfcoding.github.io/showcase/progit/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/progit/</guid>
+      <description>
+        
+        
+        
+        <![CDATA[<img src="http://kfcoding.github.io/showcase/progit/featured_hu897b7c247c741323c00e40800f8fd43e_24287_640x0_resize_catmullrom_2.png" width="640" height="400"/>]]>
+        
+        
+
+&lt;p&gt;At 1Password, we used to go through a different documentation platform every month: blog engines, ebooks, wikis, site generators written in Ruby and JavaScript. Each was inadequate in its own special way. Then we found &lt;strong&gt;Hugo&lt;/strong&gt;. We made one last switch, and we&amp;rsquo;re glad we did.&lt;/p&gt;
+
+&lt;h3 id=&#34;not-all-static-site-generators-are-created-equal&#34;&gt;Not all static site generators are created equal&lt;/h3&gt;
+
+&lt;p&gt;Finding a tool that will make your customers, writers, designers, &lt;em&gt;and&lt;/em&gt; DevOps team happy is no easy task, but we managed it with Hugo:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is static&lt;/strong&gt;. We&amp;rsquo;re a security company, so we swear by static sites and use them wherever possible. We feel much safer pointing customers at HTML files than at a complicated server which needs to be hardened.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is Go&lt;/strong&gt;. We love the Go programming language at 1Password, and we were delighted to learn that Hugo used the same Go template syntax that our designers and front-end developers had already mastered.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is FAST&lt;/strong&gt;. Our previous static site generator took nearly a minute to compile our (then much smaller) site. Developers might be used to this, but it wasn&amp;rsquo;t cutting it for writers who wanted to see live previews of their work. Hugo did the same job in milliseconds, and to this day compiles 400 pages in five languages in the blink of an eye.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is flexible&lt;/strong&gt;. Thanks to Hugo&amp;rsquo;s content and layout system, we were able to preserve our existing file and folder structure and port our entire production site in a few days. We could then create new content types that weren&amp;rsquo;t possible before, like these snazzy &lt;a href=&#34;https://support.1password.com/explore/extension/&#34;&gt;showcases&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is great for writers&lt;/strong&gt;. Our documentation team was already comfortable with Markdown and Git and could start creating content for Hugo with zero downtime. Once we added shortcodes, our writers were able to dress up articles with features like  &lt;a href=&#34;https://support.1password.com/get-the-apps/&#34;&gt;platform boxes&lt;/a&gt; with just a bit of new syntax.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo has an amazing developer community&lt;/strong&gt;. Hugo updates are frequent and filled to the brim with features and fixes. As we developed the multilingual version of our site, we submitted PRs for features we needed and were helped through the process by &lt;a href=&#34;https://github.com/bep&#34;&gt;@bep&lt;/a&gt; and others.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hugo is simple to deploy&lt;/strong&gt;. Hugo has just the right amount of configuration options to fit into our build system without being too complicated.&lt;/p&gt;
+
+&lt;h3 id=&#34;tech-specs&#34;&gt;Tech specs&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://support.1password.com&#34;&gt;1Password Support&lt;/a&gt; uses Hugo with a custom theme. It shares styles and some template code with &lt;a href=&#34;https://1password.com&#34;&gt;1Password.com&lt;/a&gt;, which we also moved to Hugo in 2016.&lt;/li&gt;
+&lt;li&gt;Code and articles live in a private GitHub repository, which is deployed to a static content server using Git hooks.&lt;/li&gt;
+&lt;li&gt;Writers build and preview the site on their computers and contribute content using pull requests.
+
+&lt;ul&gt;
+&lt;li&gt;We use Hugo&amp;rsquo;s &lt;a href=&#34;http://kfcoding.github.io/content-management/multilingual/&#34;&gt;multilingual support&lt;/a&gt; to build the site in English, Spanish, French, Italian, German, and Russian. With the help of Hugo, 1Password Support became our very first site in multiple languages.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Our &lt;a href=&#34;https://support.1password.com/contact&#34;&gt;contact form&lt;/a&gt; is a single-page React app. We were able to integrate it with Hugo seamlessly thanks to its support for static files.&lt;/li&gt;
+&lt;li&gt;The one part of the support site which is not static is our search engine, which we developed with Elasticsearch and host on AWS.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Showcase: 云计算原理与实践</title>
+      <link>http://kfcoding.github.io/showcase/ppcc/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/ppcc/</guid>
+      <description>
+        
+        
+        
+        <![CDATA[<img src="http://kfcoding.github.io/showcase/ppcc/featured-template_hu521ae49c9f92565a905ce037fe035a82_632590_640x0_resize_catmullrom_2.png" width="640" height="474"/>]]>
+        
+        &lt;p&gt;Swiss &lt;a href=&#34;http://www.camping-arolla.com/&#34;&gt;Arolla campsite&lt;/a&gt; runs the highest campsite in Europe and I&amp;rsquo;m completely re-doing their actuel Website with Hugo.&lt;/p&gt;
+
+&lt;p&gt;But they just launch a brand new offer (luxury tents with bed and fire oven), and we couldn&amp;rsquo;t wait for the proper new website for having this promoted: we needed the website up and running within 24h!&lt;/p&gt;
+
+&lt;p&gt;So we decided to quickly launch a dedicated &lt;a href=&#34;https://www.cocoon-arolla.com&#34;&gt;independent web site&lt;/a&gt; using all the powerful tools included with &lt;a href=&#34;https://gohugo.io&#34;&gt;gohugo.io&lt;/a&gt; and some things we already knew &amp;amp; used:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Choose a spectacular landing theme in the rich &lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;Hugo Themes&lt;/a&gt; collection : &lt;a href=&#34;https://themes.gohugo.io/airspace-hugo/&#34;&gt;Airspace Theme&lt;/a&gt; by Themefisher.&lt;/li&gt;
+&lt;li&gt;Replace the main images.&lt;/li&gt;
+&lt;li&gt;Add a &lt;a href=&#34;https://github.com/liwenyip/hugo-easy-gallery&#34;&gt;hugo-easy-gallery / photoswipe&lt;/a&gt; on the main page with attractive images.&lt;/li&gt;
+&lt;li&gt;Add the promo video with a simple &lt;em&gt;vimeo&lt;/em&gt; shortcode.&lt;/li&gt;
+&lt;li&gt;Replace the Google Maps widget by the &lt;a href=&#34;http://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; equivalent&lt;/li&gt;
+&lt;li&gt;Use a &lt;a href=&#34;http://www.zotabox.com&#34;&gt;Zotabox&lt;/a&gt; contact form.&lt;/li&gt;
+&lt;li&gt;Write the content in French &amp;amp; in English directly on the content pages, describe their services, add fun facts and true testimonies.&lt;/li&gt;
+&lt;li&gt;Setup a GDPR compliant site with the new Hugo options.&lt;/li&gt;
+&lt;li&gt;Use &lt;a href=&#34;https://www.netlify.com&#34;&gt;Netlify&lt;/a&gt; for publishing it in a breeze.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first version was up in 4 hours, and the polished 2 languages version was published on Netlify the next day.&lt;/p&gt;
+
+&lt;p&gt;This would have been impossible to do it in such a short time without all the powerful Hugo tools and Netlify simplicity.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Showcase: 数据科学与工程导论</title>
+      <link>http://kfcoding.github.io/showcase/dase/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/dase/</guid>
+      <description>
+        
+        
+        
+        <![CDATA[<img src="http://kfcoding.github.io/showcase/dase/featured_hudb4e3c7177b4b601ab49219d1b78bf3e_78114_640x0_resize_catmullrom_2.png" width="640" height="360"/>]]>
+        
+        &lt;p&gt;The British Broadcasting Corporation (BBC) (UK), Deutsche Welle (DW) (Germany), France Médias Monde (FMM) (France), the U.S. Agency for Global Media (USAGM) (US) and the Open Technology Fund (OTF) (US) co-sponsor the Bypass Censorship website.&lt;/p&gt;
+
+&lt;p&gt;Websites of international news agencies are often blocked in many countries. In order to connect people to these sites, Bypass Censorship feature and recommend tools in the following languages: English, French, Spanish, Arabic, Farsi, Chinese, and Russian.&lt;/p&gt;
+
+&lt;p&gt;One of the tools is the Bypass Censorship Extension for Firefox and Chrome. The extension help direct people to mirrors of partners sites if they are being censored.&lt;/p&gt;
+
+&lt;p&gt;The first version of the site was built in Drupal 8 but it was relaunched as a static site built with Hugo in 2019.&lt;/p&gt;
+
+&lt;p&gt;Security, page load time and easy of hosting is the main reasons for switching to a static site. As the lead developer I had good experience with Hugo and was interested in exploring the multilingual features.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a simply site, basically one page in seven languages. I had no problems getting Hugo to output what I wanted. Found the multilingual support straight forward and easy to work with.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the design by &lt;a href=&#34;https://www.leylaavsar.com/&#34;&gt;Leyla Avsar&lt;/a&gt; the site also looks good. I used the &lt;a href=&#34;https://github.com/frjo/hugo-theme-zen&#34;&gt;Hugo Zen theme&lt;/a&gt; with a few custom templates and the needed CSS.&lt;/p&gt;
+
+&lt;p&gt;The editors can maintain content via &lt;a href=&#34;https://forestry.io/&#34;&gt;Forestry.io CMS&lt;/a&gt; or directly via Git. Forestry does unfortunately not have multilingual support. All the language versions are in one pile making it harder to find the right file to edit, but it works.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

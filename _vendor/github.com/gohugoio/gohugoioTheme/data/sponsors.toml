@@ -1,0 +1,35 @@
+#[[banners]]
+#name = "Forestry.io"
+#link = "https://forestry.io/"
+#logo = "/images/sponsors/forestry-logotype.svg"
+#copy = ""
+#
+#[[banners]]
+#name = "Linode"
+#link = "https://www.linode.com/"
+#logo = "/images/sponsors/linode-logo_standard_light_medium.png"
+#copy = ""
+#
+#[[banners]]
+#name = "eSolia"
+#link = "https://esolia.com/post/why-did-esolia-choose-hugo/"
+#logo = "/images/sponsors/esolia-logo.svg"
+#copy = ""
+
+[[banners]]
+name = "同济大学"
+link = "https://www.tongji.edu.cn/"
+logo = "/images/sponsors/tongji.png"
+copy = ""
+
+[[banners]]
+name = "华东师范大学"
+link = "https://www.ecnu.edu.cn/"
+logo = "/images/sponsors/ecnu.jpeg"
+copy = ""
+
+[[banners]]
+name = "上海应用技术大学"
+link = "https://www.sit.edu.cn/"
+logo = "/images/sponsors/sit.png"
+copy = ""

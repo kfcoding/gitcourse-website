@@ -1,0 +1,9 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/overview/introduction/            	/getting-started/
+/tutorials/installing-on-windows/  	/getting-started/about/
+/tutorials/installing-on-mac/      	/getting-started/about/
+/overview/installing/              	/getting-started/about/
+/getting-started/install           	/getting-started/about/
+/install/                          	/getting-started/about/
+/showcase/progit/                  	/showcase/progit/

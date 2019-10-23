@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kfcoding.github.io/documentation/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://kfcoding.github.io/zh/documentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kfcoding.github.io/documentation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/getting-started/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/getting-started/about/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/getting-started/quick/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/categories/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://kfcoding.github.io/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kfcoding.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/categories/fundamentals/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://kfcoding.github.io/zh/categories/fundamentals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kfcoding.github.io/categories/fundamentals/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/categories/getting-started/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/showcase/progit/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/showcase/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/showcase/ppcc/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/showcase/dase/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kfcoding.github.io/</loc>
+    <lastmod>2019-10-23T18:07:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://kfcoding.github.io/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://kfcoding.github.io/"
+                />
+  </url>
+  
+</urlset>

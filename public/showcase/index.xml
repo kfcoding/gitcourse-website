@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcase on GitCourse</title>
+    <link>http://kfcoding.github.io/showcase/</link>
+    <description>Recent content in Showcase on GitCourse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://kfcoding.github.io/showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pro Git</title>
+      <link>http://kfcoding.github.io/showcase/progit/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/progit/</guid>
+      <description>At 1Password, we used to go through a different documentation platform every month: blog engines, ebooks, wikis, site generators written in Ruby and JavaScript. Each was inadequate in its own special way. Then we found Hugo. We made one last switch, and we&amp;rsquo;re glad we did.
+Not all static site generators are created equal Finding a tool that will make your customers, writers, designers, and DevOps team happy is no easy task, but we managed it with Hugo:</description>
+    </item>
+    
+    <item>
+      <title>云计算原理与实践</title>
+      <link>http://kfcoding.github.io/showcase/ppcc/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/ppcc/</guid>
+      <description>Swiss Arolla campsite runs the highest campsite in Europe and I&amp;rsquo;m completely re-doing their actuel Website with Hugo.
+But they just launch a brand new offer (luxury tents with bed and fire oven), and we couldn&amp;rsquo;t wait for the proper new website for having this promoted: we needed the website up and running within 24h!
+So we decided to quickly launch a dedicated independent web site using all the powerful tools included with gohugo.</description>
+    </item>
+    
+    <item>
+      <title>数据科学与工程导论</title>
+      <link>http://kfcoding.github.io/showcase/dase/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://kfcoding.github.io/showcase/dase/</guid>
+      <description>The British Broadcasting Corporation (BBC) (UK), Deutsche Welle (DW) (Germany), France Médias Monde (FMM) (France), the U.S. Agency for Global Media (USAGM) (US) and the Open Technology Fund (OTF) (US) co-sponsor the Bypass Censorship website.
+Websites of international news agencies are often blocked in many countries. In order to connect people to these sites, Bypass Censorship feature and recommend tools in the following languages: English, French, Spanish, Arabic, Farsi, Chinese, and Russian.</description>
+    </item>
+    
+  </channel>
+</rss>
